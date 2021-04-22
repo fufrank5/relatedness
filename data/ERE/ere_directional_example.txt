@@ -1,0 +1,5 @@
+2c8bcca93da4097da338a8754e4f03b0        token   Biszku is alleged to have been a member of a commission that ordered the killing of civilians during the protests of 1956 .
+2c8bcca93da4097da338a8754e4f03b0        entity_type     B-PER O O O O O O B-PER O O B-ORG O O O O O B-PER O O O O O O
+2c8bcca93da4097da338a8754e4f03b0        arg1    0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2c8bcca93da4097da338a8754e4f03b0        arg2    0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0
+2c8bcca93da4097da338a8754e4f03b0        label   orgaffiliation.employmentmembership(e1,e2)

@@ -1,0 +1,9 @@
+NONE OTHER 1.0
+PART-WHOLE(e1,e2) partwhole(e1,e2) 1.0
+PART-WHOLE(e2,e1) partwhole(e2,e1) 1.0
+ORG-AFF(e1,e2) orgaffiliation(e1,e2) 1.0
+ORG-AFF(e2,e1) orgaffiliation(e2,e1) 1.0
+GEN-AFF(e1,e2) generalaffiliation(e1,e2) 1.0
+GEN-AFF(e2,e1) generalaffiliation(e2,e1) 1.0
+PER-SOC personalsocial 1.0
+PHYS physical 1.0
