@@ -5,6 +5,7 @@ python==2.7
 tensorflow==1.4
 # Dataset
 ACE: ACE2005 (https://catalog.ldc.upenn.edu/LDC2006T06)
+
 ERE: LDC2015E29, LDC2015E68, LDC2015E78, LDC2015R26, LDC2016E31, LDC2016E73
 
 Both datasets are available through LDC.
@@ -18,4 +19,5 @@ The model implementation is available in this code repository. It also contains 
 
 An example command:
 `python multi.py --expt=ace05_ere --joint=joint_ksupport --debug`
+
 Note: the input processed data files are not provided in the repository.
